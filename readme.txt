@@ -1,0 +1,1 @@
+Before you start playing on the world, pull the current build from the repository.When you're done, add all files in the save folder to the commit and push it to master.If you break everything on your version, you can always reset to an older save.If there are merging conflicts, we'll figure out how to work them out when they arise.
